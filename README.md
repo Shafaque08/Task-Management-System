@@ -101,6 +101,8 @@ npm install
 npm run dev
 ```
 
+![image]C:\Users\KIIT\OneDrive\Desktop\New folder
+
 Add a `.env.local` file in the frontend folder:
 ```env
 NEXT_PUBLIC_API_URL=http://localhost:5000
