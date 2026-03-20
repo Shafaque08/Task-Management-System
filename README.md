@@ -101,7 +101,7 @@ npm install
 npm run dev
 ```
 
-![image]C:\Users\KIIT\OneDrive\Desktop\New folder
+![image]("C:\Users\KIIT\Downloads\WhatsApp Image 2026-03-19 at 09.44.29.jpeg")
 
 Add a `.env.local` file in the frontend folder:
 ```env
